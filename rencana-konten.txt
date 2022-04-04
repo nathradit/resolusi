@@ -3,6 +3,7 @@ RENCANA KONTEN
 Javascript
 -ES6
 -Framework JS
+Fundamental data structure
 PHP framework
 CSS
 HTML
