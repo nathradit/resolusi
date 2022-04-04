@@ -3,9 +3,11 @@ RENCANA KONTEN
 Javascript
 -ES6
 -Framework JS
-  "Angular
-  "React
+  "Vue"
+  "React"
+Fundamental data structure
 PHP framework
 -Laravel
 CSS
 HTML
+Phyton
